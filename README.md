@@ -1,12 +1,14 @@
-# Getting Started with Create React App
+# はじめに
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+下記で作成
+```
+npx create-react-app@latest . --template typescript
+```
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
+下記で実行
+```
+npm run start
+```
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
