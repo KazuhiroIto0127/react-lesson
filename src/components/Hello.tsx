@@ -1,14 +1,14 @@
 const Hello = () => {
-    const onClick = () => {
-        alert('Hello');
-    }
-    const text = 'Hello, world!';
+  const onClick = () => {
+    alert('Hello');
+  }
+  const text = 'Hello, world!';
 
-    return (
-        <div onClick={onClick}>
-            {text}
-        </div>
-    )
+  return (
+    <div onClick={onClick}>
+      {text}
+    </div>
+  )
 }
 
 export default Hello
