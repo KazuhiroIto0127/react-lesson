@@ -1,8 +1,6 @@
 {
   "name": "React Lesson",
-  "dockerComposeFile": [
-    "../compose.yaml"
-  ],
+  "dockerComposeFile": ["../compose.yaml"],
   "service": "react",
   "workspaceFolder": "/home/node/app",
   "customizations": {
@@ -19,7 +17,8 @@
         "formulahendry.auto-rename-tag",
         "vscode-icons-team.vscode-icons",
         "MariusAlchimavicius.json-to-ts",
-        "wix.vscode-import-cost"
+        "wix.vscode-import-cost",
+        "bradlc.vscode-tailwindcss"
       ],
       "settings": {
         "files.encoding": "utf8",
